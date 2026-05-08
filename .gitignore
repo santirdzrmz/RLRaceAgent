@@ -1,0 +1,32 @@
+# Unity generated folders (regenerated automatically)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Visual Studio / Rider / IDE files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.unityproj
+*.unitypackage
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# ML-Agents training output (huge, regenerable)
+results/
